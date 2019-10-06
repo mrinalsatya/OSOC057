@@ -1,4 +1,5 @@
 example
+<<<<<<< HEAD
 this is for pull
 this is for example
 <<<<<<< HEAD
@@ -7,3 +8,5 @@ hiiiiii
 yo
 >>>>>>> 49147bad207abda0bdfa4668c6cb03c8a8646702
 i am changing it
+=======
+>>>>>>> parent of ad07904... Update example.txt
