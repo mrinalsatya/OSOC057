@@ -1,4 +1,8 @@
 example
 this is for pull
 this is for example
+<<<<<<< HEAD
 hiiiiii
+=======
+yo
+>>>>>>> 49147bad207abda0bdfa4668c6cb03c8a8646702
